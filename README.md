@@ -19,4 +19,4 @@ Note: This filter could not be the final/latest release, as this one is just fro
 <br>
 <br>
 <br>
-Final Note: To observe, preservation of the original file (Published by Microsoft) this repository turned into an archive on December 2, 2022. The links will still work.
+Final Note: To observe, preservation of the original file (Published by AdBlock Plus/EasyList) this repository turned into an archive on December 2, 2022. The links will still work.
