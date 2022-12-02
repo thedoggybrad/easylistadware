@@ -4,8 +4,7 @@ The official EasyList Adware filter recovered from the WayBackMachine.
 <br>
 EasyList (AdBlock Plus), decided to shut this filter down. But this repository is one of the archive of this filter.
 <br>
-This repository aims to preserve the original file, so this repository is on Archive Mode and will not be altered.
-<br>
+This repository aims to preserve the original file, so this repository will be edited to present information, but the original filterlist file will never be changed/modified in any way.
 <br>
 Link: https://raw.githubusercontent.com/thedoggybrad/easylistadware/main/adwarefilters.txt
 <br>
