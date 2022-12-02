@@ -16,3 +16,7 @@ Special Note: As this filter is just an archive of the original one. New adwares
 <br>
 <br>
 Note: This filter could not be the final/latest release, as this one is just from WayBackMachine. The copy we have here is from 16 Sep 2020 02:00 UTC.
+<br>
+<br>
+<br>
+Final Note: To observe, preservation of the original file (Published by Microsoft) this repository turned into an archive on December 2, 2022. The links will still work.
